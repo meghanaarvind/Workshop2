@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop 2: Git
 
 Hello, my name is Meghana.
 I added more text.
