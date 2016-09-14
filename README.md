@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop-2
 
 Hello, my name is Meghana.
 I added more text.
